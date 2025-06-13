@@ -1,0 +1,2 @@
+# Ignorar archivos CSV grandes en data/raw
+data/raw/*.csv
