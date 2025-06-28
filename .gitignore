@@ -1,3 +1,5 @@
 # Ignorar archivos CSV grandes en data/raw
 data/raw/*.csv
 data/processed/*.csv
+git rm --cached data/processed/fraud_processed.csv
+git rm --cached data/processed/fraud_test_processed.csv
